@@ -1,0 +1,469 @@
+"Main activity before looking for work","Flows into unemployment","Unemployed used public employment agency","Unemployed looked at job ads","Reason for not looking for work","Reason for job leave","Job seeking status","Unemployment Key"
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable",1
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Not Applicable",2
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,3
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,4
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job losers, laid off","Not Applicable",5
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school","Not Applicable",6
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability","Not Applicable",7
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Not Applicable",8
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired","Not Applicable",9
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,10
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Future starts",11
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Not Applicable","Not Applicable",12
+"Not Applicable","Job losers, temporary layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,13
+Other,"New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,14
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Not Applicable",15
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Not Applicable",16
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,17
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,18
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,19
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Not Applicable","Not Applicable",20
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Future starts",21
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,22
+"Going to school","New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,23
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Not Applicable",24
+"Managing a home","New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,25
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Part-time,26
+Other,"Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,27
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,28
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,29
+Other,"Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,30
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Not Applicable",31
+"Managing a home","New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,32
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,33
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,34
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,35
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Not Applicable",36
+"Managing a home","Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,37
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,38
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Not Applicable","Not Applicable",39
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, own illness or disability","Not Applicable",40
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,41
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,42
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,43
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Not Applicable",44
+"Managing a home","Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,45
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job losers, laid off","Not Applicable",46
+Other,"Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,47
+"Managing a home","Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,48
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,49
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,50
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Future starts",51
+Other,"Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,52
+"Managing a home","Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,53
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Full-time,54
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,55
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,56
+"Going to school","New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,57
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,58
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, going to school",Part-time,59
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Part-time,60
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,61
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,62
+"Going to school","Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Full-time,63
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, going to school","Not Applicable",64
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job leavers, going to school","Not Applicable",65
+"Going to school","Re-entrants, worked more than 1 year ago","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,66
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Not Applicable",67
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,68
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,69
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,70
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,71
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job losers, laid off","Not Applicable",72
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,73
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Not Applicable",74
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Not Applicable",75
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Not Applicable","Not Applicable",76
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job losers, laid off","Not Applicable",77
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,78
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job losers, laid off","Not Applicable",79
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Part-time,80
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Not Applicable","Not Applicable",81
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,82
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Not Applicable","Not Applicable",83
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,84
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,85
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,86
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,87
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,88
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,89
+Other,"Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Part-time,90
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Not Applicable","Not Applicable",91
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,92
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ",Yes,Yes,"Not Applicable","Not Applicable",Full-time,93
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job losers, laid off","Not Applicable",94
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,95
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,96
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,97
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, own illness or disability","Not Applicable",98
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,99
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,100
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,101
+"Managing a home","New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,102
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,103
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job leavers, other reasons","Not Applicable",104
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job losers, laid off","Not Applicable",105
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Part-time,106
+"Managing a home","New entrants",Yes,Yes,"Not Applicable","Not Applicable",Full-time,107
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,108
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,109
+"Going to school","New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,110
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,111
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,112
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,113
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,114
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job losers, laid off","Not Applicable",115
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, own illness or disability","Not Applicable",116
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,117
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,118
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,119
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, going to school","Not Applicable",120
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job losers, laid off","Not Applicable",121
+"Going to school","Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,122
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,123
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,124
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,125
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,126
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,127
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job losers, laid off","Not Applicable",128
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,129
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,130
+"Managing a home","Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Full-time,131
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,132
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,133
+"Not Applicable","Job losers, temporary layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,134
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,135
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Future starts",136
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,137
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,138
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off","Future starts",139
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job losers, laid off","Not Applicable",140
+Working,"Job losers, temporary layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,141
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,142
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,143
+"Managing a home","New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,144
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,145
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,146
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Future starts",147
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job losers, laid off","Not Applicable",148
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job losers, laid off","Not Applicable",149
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,150
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,151
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,152
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,153
+"Going to school","Re-entrants, worked more than 1 year ago","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,154
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability","Future starts",155
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, retired","Not Applicable",156
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,157
+"Going to school","New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,158
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,159
+Other,"Re-entrants, worked more than 1 year ago",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,160
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job losers, laid off","Not Applicable",161
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,162
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job losers, laid off","Not Applicable",163
+Other,"New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Full-time,164
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, other reasons","Not Applicable",165
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,166
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, other reasons","Not Applicable",167
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job losers, laid off","Not Applicable",168
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, personal or family responsibilities","Not Applicable",169
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,170
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,171
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,172
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired","Future starts",173
+Other,"New entrants","Not Applicable",Yes,"Not Applicable","Not Applicable",Part-time,174
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job leavers, other reasons","Not Applicable",175
+"Going to school","Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Full-time,176
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,177
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,178
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job losers, laid off","Not Applicable",179
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, other reasons","Not Applicable",180
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Future starts",181
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,182
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job losers, laid off","Not Applicable",183
+"Going to school","Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Part-time,184
+"Managing a home","Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Part-time,185
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,186
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,187
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,188
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, retired",Part-time,189
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,190
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,191
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,192
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,193
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, other reasons","Not Applicable",194
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,195
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, personal or family responsibilities","Not Applicable",196
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,197
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school","Future starts",198
+"Going to school","New entrants",Yes,Yes,"Not Applicable","Not Applicable",Part-time,199
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,200
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job losers, laid off","Not Applicable",201
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,202
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,203
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,204
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,205
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,206
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,207
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Part-time,208
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,209
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,210
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, going to school",Full-time,211
+Working,"Job losers, permanent layoff","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,212
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Full-time,213
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,214
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job losers, laid off","Not Applicable",215
+Other,"New entrants","Not Applicable","Not Applicable","Not Applicable","Not Applicable",Part-time,216
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,217
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,218
+Other,"New entrants",Yes,Yes,"Not Applicable","Not Applicable",Full-time,219
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, going to school",Full-time,220
+"Going to school","Job losers, temporary layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,221
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,222
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,223
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,224
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,225
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,226
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job losers, laid off","Not Applicable",227
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,228
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,229
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, other reasons","Not Applicable",230
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,231
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, retired",Part-time,232
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job losers, laid off","Not Applicable",233
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,234
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,235
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,236
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Part-time,237
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,238
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,239
+Other,"Re-entrants, worked more than 1 year ago",Yes,Yes,"Not Applicable","Not Applicable",Full-time,240
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,241
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,242
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job losers, laid off","Not Applicable",243
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Part-time,244
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, other reasons","Not Applicable",245
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job losers, laid off","Not Applicable",246
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,247
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,248
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, other reasons","Not Applicable",249
+Other,"New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,250
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,251
+Other,"Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,252
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,253
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,254
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,255
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,256
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,257
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Part-time,258
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job losers, laid off","Not Applicable",259
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,260
+Other,"Re-entrants, worked more than 1 year ago",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,261
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,262
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,263
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, personal or family responsibilities","Not Applicable",264
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,265
+"Going to school","New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,266
+"Going to school","New entrants",Yes,Yes,"Not Applicable","Not Applicable",Full-time,267
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Full-time,268
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ",Yes,Yes,"Not Applicable","Not Applicable",Part-time,269
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,270
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Future starts",271
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, other reasons","Not Applicable",272
+Other,"New entrants",Yes,Yes,"Not Applicable","Not Applicable",Part-time,273
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job losers, laid off","Not Applicable",274
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,275
+"Going to school","Re-entrants, worked more than 1 year ago",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,276
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Full-time,277
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,278
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, other reasons","Not Applicable",279
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,280
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Full-time,281
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, personal or family responsibilities","Not Applicable",282
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, personal or family responsibilities","Not Applicable",283
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,284
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, retired","Not Applicable",285
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,286
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,287
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,288
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons","Future starts",289
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,290
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,291
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Part-time,292
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,293
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,294
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, own illness or disability","Not Applicable",295
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Full-time,296
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,297
+"Managing a home","Re-entrants, worked more than 1 year ago",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,298
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,299
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,300
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,301
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,302
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, going to school","Not Applicable",303
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,304
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, going to school",Part-time,305
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, other reasons","Not Applicable",306
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job losers, laid off","Not Applicable",307
+Working,"Job losers, permanent layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,308
+"Managing a home","Re-entrants, worked more than 1 year ago",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,309
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,310
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,311
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, personal or family responsibilities","Not Applicable",312
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Part-time,313
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, personal or family responsibilities","Not Applicable",314
+Working,"Job leavers/losers (status unknown), worked more than 1 year ago ",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,315
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,316
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,317
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,318
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,319
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job losers, laid off","Not Applicable",320
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,321
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,322
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,323
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,324
+Working,"Job losers, temporary layoff","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,325
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job losers, laid off","Not Applicable",326
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,327
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Future starts",328
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,329
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,330
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,331
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, other reasons","Not Applicable",332
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,333
+"Going to school","New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,334
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job losers, laid off","Not Applicable",335
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, retired",Part-time,336
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,337
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,338
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, going to school",Part-time,339
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,340
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,341
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Full-time,342
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Full-time,343
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,344
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job losers, laid off","Not Applicable",345
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,346
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,347
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,348
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,349
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,350
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,351
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job losers, laid off","Not Applicable",352
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,353
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,354
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,355
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,356
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Full-time,357
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,358
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, retired",Full-time,359
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,360
+"Managing a home","New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,361
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, personal or family responsibilities","Not Applicable",362
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job losers, laid off","Not Applicable",363
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Part-time,364
+"Managing a home","Future starts","Not Applicable","Not Applicable","Not Applicable","Not Applicable","Future starts",365
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,366
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,367
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, other reasons",Full-time,368
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job leavers, personal or family responsibilities","Not Applicable",369
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,370
+Working,"Future starts","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities","Future starts",371
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - school","Job leavers, other reasons","Not Applicable",372
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,373
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,374
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, personal or family responsibilities","Not Applicable",375
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Full-time,376
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,377
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, other reasons","Not Applicable",378
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,379
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,380
+Working,"Future starts","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities","Future starts",381
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, other reasons","Not Applicable",382
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Part-time,383
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other","Job leavers, personal or family responsibilities","Not Applicable",384
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, going to school",Full-time,385
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,386
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, retired",Part-time,387
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - own illness or disability","Job leavers, going to school","Not Applicable",388
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,389
+Working,"Job leavers","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,390
+Working,"Job losers, permanent layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,391
+Other,"New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Full-time,392
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,393
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, personal or family responsibilities","Not Applicable",394
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,395
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,396
+Other,"Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, own illness or disability",Full-time,397
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job losers, laid off","Not Applicable",398
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, going to school","Not Applicable",399
+Other,"Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,400
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, personal or family responsibilities","Not Applicable",401
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - awaiting recall or reply","Job leavers, own illness or disability","Not Applicable",402
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, other reasons","Not Applicable",403
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,404
+Working,"Job leavers",Yes,"Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,405
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,406
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,407
+"Managing a home","New entrants",Yes,"Not Applicable","Not Applicable","Not Applicable",Part-time,408
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - other personal or family responsibilities","Job leavers, retired","Not Applicable",409
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, own illness or disability",Part-time,410
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,411
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,412
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,413
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Full-time,414
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,415
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, own illness or disability","Not Applicable",416
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,417
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,418
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,419
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,420
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,421
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,422
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - discouraged","Job leavers, other reasons","Not Applicable",423
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,424
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,425
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,426
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Part-time,427
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Full-time,428
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,429
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, other reasons",Part-time,430
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,431
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,432
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,433
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Full-time,434
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,435
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Part-time,436
+Other,"Job losers, temporary layoff",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,437
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, retired",Part-time,438
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,439
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job losers, laid off","Not Applicable",440
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,441
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,442
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Part-time,443
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,444
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable",Yes,"Not Applicable","Job losers, laid off",Full-time,445
+"Going to school","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,446
+"Managing a home","Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Full-time,447
+Other,"Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Full-time,448
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Full-time,449
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, personal or family responsibilities","Not Applicable",450
+Working,"Job losers, permanent layoff",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,451
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Part-time,452
+"Not Applicable","Not Applicable","Not Applicable","Not Applicable","Wanted work, reason - caring for children","Job leavers, going to school","Not Applicable",453
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,454
+"Not Applicable","Future starts","Not Applicable","Not Applicable","Not Applicable","Job leavers, personal or family responsibilities","Future starts",455
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, retired",Full-time,456
+"Managing a home","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, other reasons",Full-time,457
+Working,"Future starts",Yes,Yes,"Not Applicable","Job losers, laid off","Future starts",458
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job leavers, going to school",Part-time,459
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, retired",Full-time,460
+Working,"Job leavers","Not Applicable","Not Applicable","Not Applicable","Job leavers, own illness or disability",Part-time,461
+Other,"Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job losers, laid off",Part-time,462
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,"Not Applicable","Not Applicable","Job leavers, personal or family responsibilities",Part-time,463
+Other,"Re-entrants, worked 1 year ago or less","Not Applicable","Not Applicable","Not Applicable","Job losers, laid off",Part-time,464
+"Managing a home","New entrants",Yes,Yes,"Not Applicable","Not Applicable",Part-time,465
+Other,"Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job losers, laid off",Part-time,466
+"Going to school","Re-entrants, worked 1 year ago or less",Yes,Yes,"Not Applicable","Job leavers, other reasons",Full-time,467
+Working,"Job leavers",Yes,Yes,"Not Applicable","Job leavers, personal or family responsibilities",Full-time,468
